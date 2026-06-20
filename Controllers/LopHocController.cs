@@ -5,11 +5,6 @@ using _2526_2221050573_BaiThi.Models.Entities;
 using _2526_2221050573_BaiThi.Models; 
 using _2526_2221050573_BaiThi.ViewModels; 
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
-using OfficeOpenXml;
-using System.IO;
-using System.Threading.Tasks; 
-using System.Collections.Generic;
 
 namespace _2526_2221050573_BaiThi.Controllers
 {
