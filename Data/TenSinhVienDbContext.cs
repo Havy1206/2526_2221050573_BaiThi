@@ -11,7 +11,7 @@ namespace _2526_2221050573_BaiThi.Data
         {
         }
 
-        public DbSet<Student> Students { get; set; }
+        public DbSet<SinhVien> SinhViens { get; set; }
        
     }
 }
