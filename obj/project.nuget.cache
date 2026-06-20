@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j1YspD4W5tA=",
+  "dgSpecHash": "V6wVTA33EXo=",
   "success": true,
   "projectFilePath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
   "expectedPackageFiles": [
@@ -144,40 +144,13 @@
   ],
   "logs": [
     {
-      "code": "NU1901",
+      "code": "NU1900",
       "level": "Warning",
-      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
       "projectPath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
       "warningLevel": 1,
       "filePath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
-      "libraryId": "NuGet.Packaging",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
-      "libraryId": "NuGet.Protocol",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
-      "projectPath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi\\2526_2221050573_BaiThi.csproj",
-      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
-      "targetGraphs": [
-        "net10.0"
-      ]
+      "targetGraphs": []
     }
   ]
 }

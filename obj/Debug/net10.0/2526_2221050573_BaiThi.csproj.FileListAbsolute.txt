@@ -1,0 +1,11 @@
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.csproj.AssemblyReference.cache
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.AssemblyInfoInputs.cache
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.AssemblyInfo.cs
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.csproj.CoreCompileInputs.cache
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.MvcApplicationPartsAssemblyInfo.cs
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.MvcApplicationPartsAssemblyInfo.cache
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.RazorAssemblyInfo.cache
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.RazorAssemblyInfo.cs
+C:\2526_2221050573_BaiThi\2526_2221050573_BaiThi\obj\Debug\net10.0\2526_2221050573_BaiThi.sourcelink.json
